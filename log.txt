@@ -1,0 +1,36 @@
+commit 4a22b1f77a8517759356d0a575f5cf413dad409f (HEAD -> main, origin/main, origin/HEAD)
+Merge: 5f487a0 1ff8282
+Author: B4rmaley <slukin.pk@gmail.com>
+Date:   Mon Oct 5 18:39:07 2026 +0300
+
+    Merge branch 'feature-a'
+
+commit 1ff828251b636b3afa7bf07c057669f636899b01 (origin/feature-a, feature-a)
+Author: B4rmaley <slukin.pk@gmail.com>
+Date:   Mon Oct 5 18:34:10 2026 +0300
+
+    git commit -m "feature-a commit"
+
+commit 5f487a0c6d5eb63a76261e1f5bd67d31bd9c867d
+Author: B4rmaley <slukin.pk@gmail.com>
+Date:   Mon Oct 5 18:26:14 2026 +0300
+
+    git commit -m "main commit"
+
+commit 941fb22e8a61be1ebb111946f3d86bdf9fb5349a
+Author: B4rmaley <slukin.pk@gmail.com>
+Date:   Mon Oct 5 18:16:42 2026 +0300
+
+    git commit -m "feature-a commit"
+
+commit cb6790d12fdbc6d42c20c3b246ba0dde839fd9fe
+Author: B4rmaley <slukin.pk@gmail.com>
+Date:   Mon Oct 5 18:11:47 2026 +0300
+
+    git commit -m "readme commit"
+
+commit e52ff2ee4de6dfff3b5558158d62a9404dd280f0
+Author: B4rmaley <slukin.pk@gmail.com>
+Date:   Mon Oct 5 17:49:04 2026 +0300
+
+    Initial commit
